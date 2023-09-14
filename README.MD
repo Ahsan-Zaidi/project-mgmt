@@ -8,15 +8,14 @@
     <img src="https://img.shields.io/badge/Sequelize-blue"  />
     <img src="https://img.shields.io/badge/mySQL-blue"  />
     <img src="https://img.shields.io/badge/dotenv-green" />
+    <img src="https://img.shields.io/badge/graphql-blue" />
 </p>
    
 <h4>Designed and coded by <a href="https://github.com/Ahsan-Zaidi">Ahsan Zaidi</a></h4> 
 
 ## Description
 
-🔍Being a web developer means being part of a community. You’ll need a place to share your projects not only if you're applying for jobs or working as a freelancer but also so that you can share your work with fellow developers and collaborate on future projects.
-
-I have created a project management system using CRUD operations to manage company databases. The purpose of this app is to assist company admins in keeping track of company projects as well as the employess in charge of them.
+🔍 I've developed a project management system that utilizes CRUD operations to oversee company databases. The primary objective of this application is to aid company administrators in monitoring company projects and the employees responsible for them.
 
 ✋ [GitHub Repository] https://github.com/Ahsan-Zaidi/project-mgmt
 
